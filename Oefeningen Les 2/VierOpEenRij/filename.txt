@@ -1,0 +1,29 @@
+[a piece was dropped in column 0 and row 0
+, a piece was dropped in column 5 and row 0
+, a piece was dropped in column 1 and row 0
+, a piece was dropped in column 2 and row 0
+, a piece was dropped in column 2 and row 1
+, a piece was dropped in column 4 and row 0
+, a piece was dropped in column 4 and row 1
+, a piece was dropped in column 2 and row 2
+, a piece was dropped in column 6 and row 0
+, a piece was dropped in column 2 and row 3
+, a piece was dropped in column 6 and row 1
+, a piece was dropped in column 5 and row 1
+, a piece was dropped in column 5 and row 2
+, a piece was dropped in column 0 and row 1
+, a piece was dropped in column 6 and row 2
+, a piece was dropped in column 0 and row 2
+, a piece was dropped in column 4 and row 2
+, a piece was dropped in column 2 and row 4
+, a piece was dropped in column 5 and row 3
+, a piece was dropped in column 4 and row 3
+, a piece was dropped in column 4 and row 4
+, a piece was dropped in column 6 and row 3
+, a piece was dropped in column 6 and row 4
+, a piece was dropped in column 0 and row 3
+, a piece was dropped in column 5 and row 4
+, a piece was dropped in column 4 and row 5
+, a piece was dropped in column 5 and row 5
+, a piece was dropped in column 6 and row 5
+]
